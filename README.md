@@ -2,7 +2,7 @@
 
 A repository to ask [@y7usuf](https://twitter.com/y7usuf) anything.
 
-I'm [working at Neutrinosoft](http://blog.yusufgoksu.comm/about)
+I'm [working at Neutrinosoft](https://neutrinosoft.com)
 
 ### Ask a question
 
